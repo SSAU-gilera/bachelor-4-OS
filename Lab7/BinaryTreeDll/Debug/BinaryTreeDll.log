@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  BinaryTreeDll.cpp
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(19): warning C4273: writeInFile: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(50): note: см. предыдущее определение "writeInFile"
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(24): warning C4273: readInFile: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(48): note: см. предыдущее определение "readInFile"
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(57): warning C4273: createNode: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(53): note: см. предыдущее определение "createNode"
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(69): warning C4273: BinaryTree::_leftPrint: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(27): note: см. предыдущее определение "_leftPrint"
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(77): warning C4273: BinaryTree::getRoot: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(34): note: см. предыдущее определение "getRoot"
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(82): warning C4273: BinaryTree::add: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(37): note: см. предыдущее определение "add"
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(114): warning C4273: BinaryTree::leftPrint: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(40): note: см. предыдущее определение "leftPrint"
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(119): warning C4273: BinaryTree::callAdd: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(44): note: см. предыдущее определение "callAdd"
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(147): warning C4273: BinaryTree::BinaryTree: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(31): note: см. предыдущее определение "{ctor}"
+C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.cpp(154): warning C4273: BinaryTree::BinaryTree: несовместимая компоновка dll
+  C:\Users\Lera\Desktop\University\Study\Osi\Lab7\BinaryTreeDll\BinaryTreeDll.h(32): note: см. предыдущее определение "{ctor}"
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Lera\Desktop\University\Study\Osi\Lab7\Debug\BinaryTreeDll.lib и объект C:\Users\Lera\Desktop\University\Study\Osi\Lab7\Debug\BinaryTreeDll.exp
+  BinaryTreeDll.vcxproj -> C:\Users\Lera\Desktop\University\Study\Osi\Lab7\Debug\BinaryTreeDll.dll

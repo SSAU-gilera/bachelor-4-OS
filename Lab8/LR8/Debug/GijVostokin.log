@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\volos\source\repos\GijVostokin\GijVostokin\Main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     Создается библиотека C:\Users\volos\source\repos\GijVostokin\Debug\GijVostokin.lib и объект C:\Users\volos\source\repos\GijVostokin\Debug\GijVostokin.exp
+  GijVostokin.vcxproj -> C:\Users\volos\source\repos\GijVostokin\Debug\GijVostokin.exe

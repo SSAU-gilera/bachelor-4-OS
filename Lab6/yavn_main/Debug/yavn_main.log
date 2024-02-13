@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Lera\Desktop\University\Study\Osi\Lab6\yavn_main\Main.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     Создается библиотека C:\Users\Lera\Desktop\University\Study\Osi\Lab6\Debug\yavn_main.lib и объект C:\Users\Lera\Desktop\University\Study\Osi\Lab6\Debug\yavn_main.exp
+  yavn_main.vcxproj -> C:\Users\Lera\Desktop\University\Study\Osi\Lab6\Debug\yavn_main.exe

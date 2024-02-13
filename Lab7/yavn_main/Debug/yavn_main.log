@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\volos\source\repos\GijVostokin\yavn_main\Main.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  yavn_main.vcxproj -> C:\Users\volos\source\repos\GijVostokin\Debug\yavn_main.exe

@@ -1,0 +1,4 @@
+﻿  Lab3.cpp
+C:\Users\Lera\Desktop\University\Study\Osi\Lab3\Lab3\Lab3.cpp(63): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Lera\Desktop\University\Study\Osi\Lab3\Lab3\Lab3.cpp(63): warning C4101: i: неиспользованная локальная переменная
+  Lab3.vcxproj -> C:\Users\Lera\Desktop\University\Study\Osi\Lab3\Debug\Lab3.exe

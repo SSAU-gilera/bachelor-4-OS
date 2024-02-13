@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (GijVostokin.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  BinaryTree.cpp
+  Main.cpp
+C:\Users\Lera\Desktop\University\Study\Osi\Lab5\LR5\Main.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  GijVostokin.vcxproj -> C:\Users\Lera\Desktop\University\Study\Osi\Lab5\Debug\LR5.exe
